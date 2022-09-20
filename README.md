@@ -32,7 +32,7 @@ Fetching data from the Drupal Database tables and and writing the data to its re
 
 - writeToFile: function to create and write raw data from the DB table to its respective CSV files.
 
--- Brief
+## Brief
 
 - app.js is the entry point of the application.
 - A connection to the Drupal DB is made through `connectDB` function.
