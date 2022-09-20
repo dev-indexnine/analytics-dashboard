@@ -1,0 +1,18 @@
+{
+  "name": "analytics-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Devansh Bhuptani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mysql2": "^2.3.3",
+    "objects-to-csv": "^1.3.6",
+    "sequelize": "^6.21.3"
+  }
+}
